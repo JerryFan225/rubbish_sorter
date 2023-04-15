@@ -1,0 +1,1 @@
+Note that 'detection_code.py' only seems to run in headed mode and no window shows up if you are accesing your jetson nano through ssh.
