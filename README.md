@@ -4,6 +4,8 @@ The rubbish sorter project is a program that I created on a Jetson Nano to ident
 
 Obviously the model is not perfect, and there are a few points where it could improve and the project will, hopefully, be updated in the future to fix these problems in order to create a more robust program.
 
+**Note** A demo video can be found at this link: https://youtu.be/GYu8002dW4o
+
 #Problems/Issues with the Program:
 
 Currently, as far as I know, there are a few issues with program.
