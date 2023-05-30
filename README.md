@@ -74,3 +74,6 @@ Expansion of current dataset for more accurate object detection.
 
 Allowing the project to run on headless mode (e.g. over SSH)
 
+Changing the labels/names of the classes to reflect their recyclability
+
+Changing the colours of the bounding boxes to reflect the objects' recyclability
