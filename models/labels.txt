@@ -1,7 +1,7 @@
 BACKGROUND
-Plastic Bottle
-Mixed Paper
-Plastic Bag
-Glass
-Battery
-Metal Tin
+Plastic Bottle (Recyclable)
+Mixed Paper (Recyclable)
+Plastic Bag (Non-Recyclable)
+Glass (Recyclable)
+Battery (Limited Recyclability)
+Metal Tin (Recyclable)
